@@ -22,8 +22,7 @@ In our project Movie  Recommender system we will be using content based recommen
 1.DATA 
 2.Preprocess the  data according to our need.
 3.Model building.
-4.Website development
-5.Deployement
+
 
 
 
